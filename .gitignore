@@ -135,3 +135,6 @@ data/2016
 data/NYC_Sales_2003-2020
 data/NYC_ACS_5yr_NTA
 data/nyc_sales
+data/pickle
+
+.DS_Store
